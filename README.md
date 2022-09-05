@@ -5,8 +5,8 @@
 
 ## 🍎 Setup
 
-- 💻 Macbook Pro A1708 - Space Gray (i5 dual-core 2,3 GHz - 8 Gb RAM DDR3 - 128 GB SSD) 
+- 💻 Macbook Pro A1708 - Space Gray (i5 dual-core 2,3 GHz - 8 Gb RAM DDR3 - 500 GB SSD) 
 
-- 🖱️ Magic Mouse 2 - Space Gray
+- 🖱️ Mx Master 3 - Space Gray
 - 🎧 Airpods Pro
 - 📱 Iphone 12 mini
