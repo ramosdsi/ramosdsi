@@ -1,4 +1,4 @@
-## 🐱‍💻 Olá, eu sou o Gabriel da Silva! | Hello, I'm Gabriel da Silva!
+##💻 Olá, eu sou o Gabriel da Silva! | Hello, I'm Gabriel da Silva!
 
 - 📗 Estudando Swift | Studying Swift
 - 💻 2 anos de experiência em suporte/segurança da informação | 2 years of information security/support experience
